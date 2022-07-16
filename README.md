@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luigi-Fontana-96
+- 👋 Hi, I’m Luigi Fontana
 - :mortar_board: I'm a computer engineer
 - 👀 I’m interested in cybersecurity
 
