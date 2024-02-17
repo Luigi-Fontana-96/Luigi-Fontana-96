@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Luigi Fontana
-- :mortar_board: I'm a computer engineer
-- 👀 I’m interested in cybersecurity
+- :mortar_board: I'm a Computer Engineer
+- 👀 I’m interested in cybersecurity,blockchains and peer to peer networks.
+- 📫 Reach me -> https://www.linkedin.com/in/luigi-fontana-396479279/
 
 
 <!---
